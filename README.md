@@ -6,11 +6,11 @@
 [![Type Liux](https://img.shields.io/badge/Type-Linux-FCC624)](https://kernel.org/)
 [![Base Ubuntu](https://img.shields.io/badge/Base-Ubuntu-E95420)](https://ubuntu.com/)
 [![KDE 5:146ubuntu3](https://img.shields.io/badge/KDE-5:146ubuntu3-1D99F3)](https://ubuntu.com/)
-![GitHub last commit](https://img.shields.io/github/last-commit/development7777/OpenRECL)
+[![GitHub last commit](https://img.shields.io/github/last-commit/development7777/OpenRECL)](https://github.com/development7777/OpenRECL/commit/)
 [![GitHub License](https://img.shields.io/github/license/development7777/OpenRECL)](LICENCE)
-![GitHub Release Date](https://img.shields.io/github/release-date/develoopment7777/Openrecl)
-![GitHub Repo stars](https://img.shields.io/github/stars/development7777/OpenRECL?style=flat)
-![Github Repo forks](https://img.shields.io/github/forks/development7777/OpenRECL?style=flat)
+[![GitHub Release Date](https://img.shields.io/github/release-date/develoopment7777/OpenRECL)](https://github.com/development7777/OpenRECL/releases)
+[![GitHub Repo stars](https://img.shields.io/github/stars/development7777/OpenRECL?style=flat)](https://github.com/development7777/OpenRECL/stargazers)
+[![Github Repo forks](https://img.shields.io/github/forks/development7777/OpenRECL?style=flat)](https://github.com/development7777/OpenRECL/forks)
 
 [日本語のREADMEを見る](README.ja.md)
 
@@ -47,7 +47,7 @@ This Linux distribution offers the following advantages:
 
 I, development7777, am committed to implementing the UI and system of OpenRECL in the best possible way. However, continuous improvement requires your feedback.
 
-Please contribute by posting issues or participating in discussions. Every contribution is valued and will help improve future features.
+Please contribute by posting [issues](https://github.com/development7777/OpenRECL/issues) or participating in [discussions](https://github.com/development7777/OpenRECL/discussions). Every contribution is valued and will help improve future features.
 
 I appreciate your support and look forward to releasing new features with your cooperation.
 
