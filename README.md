@@ -37,10 +37,7 @@ This Linux distribution offers the following advantages:
 
 <!--## Build Instructions
 
-
-
 ## Documentation
-
 
 -->
 ## Feedback and Contributions
